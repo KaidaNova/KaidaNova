@@ -67,8 +67,7 @@ An AI-native music application crafted with the Claude API, designed to streamli
 ### 📬 Connect With Us
 
 - 🌐 **Website:** [Novasix.eu.cc](https://Novasix.eu.cc)
-- 📧 **Business Inquiries:** [contact@Novasix.eu.cc](mailto:contact@Novasix.eu.cc)
-- 🐦 **X / Twitter:** [@Novasix](https://x.com/Novasix)
+- 📧 **Business Inquiries:** [1972929486@qq.com](mailto:1972929486@qq.com)
 
 <div align="center">
   <p><em>Building the future of AI software, one line of code at a time.</em></p>
