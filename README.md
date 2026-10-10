@@ -11,43 +11,8 @@
   </p>
 </div>
 
----
+![Uploading f2afb030064141961297d894db849580.jpg…]()
 
-### 🏢 Who We Are
-**Novasix** is a digital studio focused on building high-performance AI web applications, sharing open-source automation scripts, and delivering robust software solutions. We turn complex problems into elegant, production-ready code.
-
-🌐 **Official Website:** [Novasix.eu.cc](https://Novasix.eu.cc)
-
----
-
-### 🚀 Our Flagship Product
-
-#### 🎵 Claude Music
-An AI-native music application crafted with the Claude API, designed to streamline music creation and interaction.
-- **Status:** Active Development / Released
-- **Tech Stack:** React, Next.js, Node.js, Claude API
-- **Explore:** [Visit Claude Music]([Claude Music Link])
-
----
-
-### 💼 What We Do
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🤖 AI Web Apps</h4>
-      <p>Integrating LLMs and AI capabilities directly into modern, scalable web interfaces.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📜 Script Sharing</h4>
-      <p>Automating workflows and sharing efficient, reusable scripts for the developer community.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Software Dev</h4>
-      <p>Building cross-platform software with a focus on performance, security, and clean architecture.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
