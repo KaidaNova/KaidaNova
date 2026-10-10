@@ -36,5 +36,5 @@
 
 <div align="center">
   <p><em>Building the future of AI software, one line of code at a time.</em></p>
-  <p><strong>© 2024 Novasix. All rights reserved.</strong></p>
+  <p><strong>© 2026 Novasix. All rights reserved.</strong></p>
 </div>
