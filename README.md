@@ -29,7 +29,7 @@
 
 ### 📬 Connect With Us
 
-- 🌐 **Website:** [Novasix.eu.cc](https://Novasix.eu.cc)
+- 🌐 **Website:** [Novasix.eu.cc](https://www.nsbbs.eu.cc)
 - 📧 **Business Inquiries:** [1972929486@qq.com](mailto:1972929486@qq.com)
 
 <div align="center">
