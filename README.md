@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Novasix</h1>
-  <p><strong>AI-Powered Web Applications, Scripts & Software Solutions</strong></p>
+  <h1>Hi!</h1>
+  <p><strong>Web Applications, Scripts & Software Solutions</strong></p>
   <p>
     <a href="https://Novasix.eu.cc">Website</a> •
     <a href="https://github.com/Novasix">GitHub</a> •
@@ -10,8 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile views" />
   </p>
 </div>
-
-![Uploading f2afb030064141961297d894db849580.jpg…]()
 
 
 ---
